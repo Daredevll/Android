@@ -1,0 +1,7 @@
+/build
+/libs
+/src/test
+/src/androidTest
+app.iml
+app-release.apk
+proguard-rules.pro
